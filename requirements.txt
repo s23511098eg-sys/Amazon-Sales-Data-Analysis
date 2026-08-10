@@ -3,3 +3,5 @@ plotly==6.3.0
 streamlit==1.61.1
 streamlit==1.51.0
 python-dotenv== 1.1.0 
+numpy==2.3.5 
+seaborn==0.13.2 
